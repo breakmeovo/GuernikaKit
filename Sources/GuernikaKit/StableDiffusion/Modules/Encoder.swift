@@ -8,7 +8,7 @@
 import CoreML
 import Accelerate
 import Foundation
-import RandomGenerator
+import RandomGeneratorAi
 
 /// A encoder model which produces RGB images from latent samples
 public class Encoder {

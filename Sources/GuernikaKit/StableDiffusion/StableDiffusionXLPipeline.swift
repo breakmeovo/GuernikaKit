@@ -9,7 +9,7 @@ import CoreML
 import Schedulers
 import Accelerate
 import CoreGraphics
-import RandomGenerator
+import RandomGeneratorAi
 
 /// A pipeline used to generate image samples from text input using stable diffusion
 ///
