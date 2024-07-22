@@ -6,7 +6,7 @@
 //
 
 import CoreML
-import Schedulers
+import SchedulersAi
 import Foundation
 
 /// Decoder noise prediction model for StableCascade

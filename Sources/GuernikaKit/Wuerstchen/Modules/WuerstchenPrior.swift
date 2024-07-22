@@ -6,7 +6,7 @@
 //
 
 import CoreML
-import Schedulers
+import SchedulersAi
 import Foundation
 
 /// Prior noise prediction model for Wuerstchen

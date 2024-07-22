@@ -6,7 +6,7 @@
 //
 
 import CoreML
-import Schedulers
+import SchedulersAi
 import Foundation
 
 /// U-Net noise prediction model for stable diffusion

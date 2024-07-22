@@ -5,7 +5,7 @@
 //  Created by Guillermo Cique Fernández on 25/5/23.
 //
 
-import Schedulers
+import SchedulersAi
 import CoreGraphics
 
 public struct SampleInput: Hashable {
